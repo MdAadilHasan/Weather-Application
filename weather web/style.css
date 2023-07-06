@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    width: 200px;
+    margin-right: 10px;
+  }
+  
+  button {
+    background-color: chartreuse;
+    padding: 5px 10px;
+  }
+  
+  #weather-info {
+    font-size: 18px;
+  }
+  
